@@ -33,3 +33,5 @@ El modelo `Producto` incluye:
 3. Acceder a `http://127.0.0.1:8000/api/productos/`
 
 
+
+
